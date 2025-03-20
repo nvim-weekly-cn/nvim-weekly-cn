@@ -18,3 +18,7 @@
 
 * 如果您有疑问，发现周刊错误，或者希望投稿内容，欢迎发起 Issue 留言。
 * 如果您想要与我交流更多，欢迎使用邮箱联系。
+
+## 鸣谢
+
+* [Krysztal Huang](https://www.zhihu.com/people/suibing-19)
