@@ -8,7 +8,7 @@ nav:
   - 第3周: 003.md
   - 第2周: 002.md
   - 第1周: 001.md
-  - GitHub 仓库: https://github.com/nvim-weekly-cn/nvim-weekly-cn
+  - Repository: https://github.com/nvim-weekly-cn/nvim-weekly-cn
 theme: readthedocs
 
 docs_dir: posts
