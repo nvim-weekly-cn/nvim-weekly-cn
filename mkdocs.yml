@@ -9,7 +9,11 @@ nav:
   - 第2周: 002.md
   - 第1周: 001.md
   - Repository: https://github.com/nvim-weekly-cn/nvim-weekly-cn
-theme: readthedocs
 
+
+theme: readthedocs
 docs_dir: posts
+plugins:
+  - mkdocs-video:
+      is_video: True
 
