@@ -39,8 +39,10 @@ jobs:
           fetch-depth: 0 # Not needed if lastUpdated is not enabled
       - name: Install uv
         uses: astral-sh/setup-uv@v5
-      - name: Set up Python
-        run: uvx mkdocs build
+      - name: Replace video tag
+        run: sed -i -E "s@^(https?://.*)@![type:video](\1)@g" posts/*.md
+      - name: Build MkDocs site
+        run: uvx --with mkdocs-video mkdocs build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
