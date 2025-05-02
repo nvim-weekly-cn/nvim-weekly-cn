@@ -1,6 +1,6 @@
 # Neovim 中文周刊
 
-每期周刊通常包含**但不保证**有以下版块：
+每期周刊的标准版块包括以下内容：
 
 * **Neovim 开发近况**：摘录近期[合并的 PR](https://github.com/neovim/neovim/pulls?q=is%3Apr+is%3Amerged)，以**新功能**为主
 * **社区资讯**：摘录近期更新的 [Issue 讨论](https://github.com/neovim/neovim/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20type%3AEnhancement)以及 [Reddit](https://www.reddit.com/r/neovim/) 等论坛的热门话题
