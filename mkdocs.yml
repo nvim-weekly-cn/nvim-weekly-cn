@@ -1,0 +1,15 @@
+site_name: Neovim 中文周刊
+nav:
+  - 第8周: 008.md
+  - 第7周: 007.md
+  - 第6周: 006.md
+  - 第5周: 005.md
+  - 第4周: 004.md
+  - 第3周: 003.md
+  - 第2周: 002.md
+  - 第1周: 001.md
+  - GitHub 仓库: https://github.com/nvim-weekly-cn/nvim-weekly-cn
+theme: readthedocs
+
+docs_dir: posts
+
