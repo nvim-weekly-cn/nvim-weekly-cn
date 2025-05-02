@@ -25,3 +25,4 @@
 * [Krysztal Huang](https://www.zhihu.com/people/suibing-19)
 * [anasitacia](https://www.zhihu.com/people/northyear)
 * [kang](https://github.com/kang8)
+* [jinzhongjia](https://github.com/jinzhongjia)
