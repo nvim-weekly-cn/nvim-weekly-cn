@@ -1,15 +1,15 @@
 site_name: Neovim 中文周刊
 nav:
-  - 第9周: 009.md
-  - 第8周: 008.md
-  - 第7周: 007.md
-  - 第6周: 006.md
-  - 第5周: 005.md
-  - 第4周: 004.md
-  - 第3周: 003.md
-  - 第2周: 002.md
-  - 第1周: 001.md
-  - Repository: https://github.com/nvim-weekly-cn/nvim-weekly-cn
+  - 第 10 期: 010.md
+  - 第 9 期: 009.md
+  - 第 8 期: 008.md
+  - 第 7 期: 007.md
+  - 第 6 期: 006.md
+  - 第 5 期: 005.md
+  - 第 4 期: 004.md
+  - 第 3 期: 003.md
+  - 第 2 期: 002.md
+  - 第 1 期: 001.md
 
 
 theme: readthedocs

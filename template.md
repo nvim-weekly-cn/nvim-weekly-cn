@@ -1,5 +1,7 @@
 # ❗❗❗确保更新所有 `TODO` 字段后移除本行❗❗❗
 
+# Neovim 中文周刊 第 TODO 期
+
 [点击查看原文](https://weekly.nvimer.org/TODO/)
 
 欢迎收看第 TODO 期 Neovim 中文周刊！
